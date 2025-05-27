@@ -1,4 +1,4 @@
-import { getTime } from "@/utils/utilt";
+import { getTime } from "@/utils/utils";
 
 export const dynamic = "force-static";
 
