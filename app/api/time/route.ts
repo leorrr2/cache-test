@@ -7,6 +7,3 @@ export async function GET() {
     time: currentTime,
   });
 }
-
-// Set revalidation time to 0 to fetch a new time on each request
-export const revalidate = 0;
